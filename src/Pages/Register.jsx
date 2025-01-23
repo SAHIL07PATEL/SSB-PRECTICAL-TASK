@@ -1,5 +1,5 @@
 import axios from 'axios'
-import React, { useEffect, useState } from 'react'
+import { useEffect, useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 import { toast, ToastContainer } from 'react-toastify'
 
@@ -45,8 +45,8 @@ const Register = () => {
       if (formData.password === formData.confirmPassword) {
         const checkUser = users.find((u) => u.email === formData.email)
         if (!checkUser) {
-          const response = await axios.post('http://localhost:3001/users', {
-            ...formData // Spread all fields
+          await axios.post('http://localhost:3001/users', {
+            ...formData
           });
           toast.success("Register successfully!", {
             position: "bottom-right",
@@ -230,6 +230,7 @@ const Register = () => {
           </form>
         </div>
       </div>
+      <ToastContainer/>
     </div>
   )
 }
