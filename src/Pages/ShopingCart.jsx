@@ -52,7 +52,7 @@ const ShoppingCart = () => {
   };
 
   const calculateTotal = () => {
-    cart.reduce((total, item) => total + item.price * item.quantity, 0);
+    return cart.reduce((total, item) => total + item.price * item.quantity, 0);
   }
 
   return (
@@ -77,7 +77,7 @@ const ShoppingCart = () => {
                 <tr key={item.id} className="hover:bg-gray-50 transition-colors">
                   {/* <td className="px-4 py-4 whitespace-nowrap">{item.title}</td> */}
                   <td className="px-4 py-4 whitespace-nowrap">{item.category}</td>
-                  <td className="px-4 py-4">${item.price}</td>
+                  <td className="px-4 py-4">${Math.round(item.price)}</td>
                   <td className="px-4 py-4">
                     <div className="flex items-center space-x-2">
                       <button
@@ -97,7 +97,7 @@ const ShoppingCart = () => {
                       </button>
                     </div>
                   </td>
-                  <td className="px-4 py-4">${(item.price * item.quantity)}</td>
+                  <td className="px-4 py-4">${(item.price * item.quantity).toFixed(2)}</td>
                   <td className="px-4 py-4">
                     <button
                       onClick={() => handleRemoveFromCart(item.id)}
@@ -113,7 +113,7 @@ const ShoppingCart = () => {
         </div>
       )}
       <div className="mt-6 flex justify-between items-center">
-        <h4 className="text-2xl font-bold">Total: ${calculateTotal()}</h4>
+        <h4 className="text-2xl font-bold">Total: ${calculateTotal().toFixed(2)}</h4>
         <button
           className="bg-blue-500 text-white px-6 py-2 rounded-lg hover:bg-blue-600 transition-colors"
           onClick={() => navigate("/checkout")}
