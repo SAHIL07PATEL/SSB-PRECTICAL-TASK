@@ -1,0 +1,119 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+      "price": 109.95,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday.",
+      "category": "men's clothing",
+      "image": "product-01.jpg",
+      "otherImages": {
+        "image1": "https://websitedemos.net/fashion-designer-boutique-02/wp-content/uploads/sites/917/2021/07/fashion-designer-template-product-img-4-400x533.jpg",
+        "image2": "https://websitedemos.net/fashion-designer-boutique-02/wp-content/uploads/sites/917/2021/07/fashion-designer-template-product-img-7-400x533.jpg",
+        "image3": "https://websitedemos.net/fashion-designer-boutique-02/wp-content/uploads/sites/917/2021/07/fashion-designer-template-product-img-12-400x533.jpg"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Mens Casual Premium Slim Fit T-Shirts",
+      "price": 22.3,
+      "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+      "category": "men's clothing",
+      "image": "product-02.jpg",
+      "otherImages": {
+        "image1": "https://websitedemos.net/fashion-designer-boutique-02/wp-content/uploads/sites/917/2021/07/fashion-designer-template-product-img-4-400x533.jpg",
+        "image2": "https://websitedemos.net/fashion-designer-boutique-02/wp-content/uploads/sites/917/2021/07/fashion-designer-template-product-img-7-400x533.jpg",
+        "image3": "https://websitedemos.net/fashion-designer-boutique-02/wp-content/uploads/sites/917/2021/07/fashion-designer-template-product-img-12-400x533.jpg"
+      }
+    },
+    {
+      "id": 3,
+      "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+      "price": 695,
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+      "category": "jewelry",
+      "image": "product-03.jpg",
+      "otherImages": {
+        "image1": "https://websitedemos.net/fashion-designer-boutique-02/wp-content/uploads/sites/917/2021/07/fashion-designer-template-product-img-4-400x533.jpg",
+        "image2": "https://websitedemos.net/fashion-designer-boutique-02/wp-content/uploads/sites/917/2021/07/fashion-designer-template-product-img-7-400x533.jpg",
+        "image3": "https://websitedemos.net/fashion-designer-boutique-02/wp-content/uploads/sites/917/2021/07/fashion-designer-template-product-img-12-400x533.jpg"
+      }
+    },
+    {
+      "id": 4,
+      "title": "Solid Gold Petite Micropave",
+      "price": 168,
+      "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days. Designed and sold by Hafeez Center in the United States.",
+      "category": "jewelry",
+      "image": "product-04.jpg",
+      "otherImages": {
+        "image1": "https://websitedemos.net/fashion-designer-boutique-02/wp-content/uploads/sites/917/2021/07/fashion-designer-template-product-img-4-400x533.jpg",
+        "image2": "https://websitedemos.net/fashion-designer-boutique-02/wp-content/uploads/sites/917/2021/07/fashion-designer-template-product-img-7-400x533.jpg",
+        "image3": "https://websitedemos.net/fashion-designer-boutique-02/wp-content/uploads/sites/917/2021/07/fashion-designer-template-product-img-12-400x533.jpg"
+      }
+    },
+    {
+      "id": 5,
+      "title": "White Gold Plated Princess",
+      "price": 9.99,
+      "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gift for Her.",
+      "category": "jewelry",
+      "image": "product-05.jpg",
+      "otherImages": {
+        "image1": "https://websitedemos.net/fashion-designer-boutique-02/wp-content/uploads/sites/917/2021/07/fashion-designer-template-product-img-4-400x533.jpg",
+        "image2": "https://websitedemos.net/fashion-designer-boutique-02/wp-content/uploads/sites/917/2021/07/fashion-designer-template-product-img-7-400x533.jpg",
+        "image3": "https://websitedemos.net/fashion-designer-boutique-02/wp-content/uploads/sites/917/2021/07/fashion-designer-template-product-img-12-400x533.jpg"
+      }
+    },
+    {
+      "id": 6,
+      "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0",
+      "price": 64,
+      "description": "Fast data transfers, improve PC Performance, high capacity, compatible with Windows and Mac.",
+      "category": "electronics",
+      "image": "product-06.jpg",
+      "otherImages": {
+        "image1": "https://websitedemos.net/fashion-designer-boutique-02/wp-content/uploads/sites/917/2021/07/fashion-designer-template-product-img-4-400x533.jpg",
+        "image2": "https://websitedemos.net/fashion-designer-boutique-02/wp-content/uploads/sites/917/2021/07/fashion-designer-template-product-img-7-400x533.jpg",
+        "image3": "https://websitedemos.net/fashion-designer-boutique-02/wp-content/uploads/sites/917/2021/07/fashion-designer-template-product-img-12-400x533.jpg"
+      }
+    },
+    {
+      "id": 7,
+      "title": "Acer Aspire 5 Slim Laptop",
+      "price": 399.99,
+      "description": "15.6 inches Full HD IPS Display, AMD Ryzen 3 3200U, Vega 3 Graphics, 4GB DDR4, 128GB SSD, Windows 10 in S Mode.",
+      "category": "electronics",
+      "image": "product-07.jpg",
+      "otherImages": {
+        "image1": "https://websitedemos.net/fashion-designer-boutique-02/wp-content/uploads/sites/917/2021/07/fashion-designer-template-product-img-4-400x533.jpg",
+        "image2": "https://websitedemos.net/fashion-designer-boutique-02/wp-content/uploads/sites/917/2021/07/fashion-designer-template-product-img-7-400x533.jpg",
+        "image3": "https://websitedemos.net/fashion-designer-boutique-02/wp-content/uploads/sites/917/2021/07/fashion-designer-template-product-img-12-400x533.jpg"
+      }
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Sahil Dholariya",
+      "email": "s@s.com",
+      "phone": "+919106027262",
+      "street": "Bhesan",
+      "city": "Junagadh",
+      "country": "India",
+      "password": "123",
+      "confirmPassword": "123"
+    },
+    {
+      "id": "ccbe",
+      "name": "Sahil Dholariya",
+      "email": "sahildholriya7@gmail.com",
+      "phone": "+919106027262",
+      "street": "Bhesan",
+      "city": "Junagadh",
+      "country": "India",
+      "password": "123",
+      "confirmPassword": "123"
+    }
+  ]
+}
